@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html/nci":{"guestpath":"/var/www/html/nci","hostpath":"C:/xampp/htdocs/nci","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/xampp/htdocs/nci","disabled":false,"__vagrantfile":true}}}

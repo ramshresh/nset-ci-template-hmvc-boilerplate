@@ -1,0 +1,6 @@
+.curve2{margin-top:-4px;width:220px;height:15px;background: url('../img/curve2.png') no-repeat;}
+.curve1{width:100px;height:99px;background:url('../img/curve1.png');float:left}
+.curve{background:url('../img/curve.png');float:left;width:100px;height:99px}
+.upperdiv{width:320px;height:99px;background:#EBE7E7;float:left;color:#5ABFDD}
+.lowerdiv{width:220px;height:98px;background:#EBE7E7;float:left;border-top:1px solid #ccc;color:#2F96B4}
+ul.adminmenu{list-style: none;}

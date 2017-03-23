@@ -1,0 +1,10 @@
+#!/vagrant/env/bin/python
+# EASY-INSTALL-ENTRY-SCRIPT: 'csvkit==1.0.1','console_scripts','in2csv'
+__requires__ = 'csvkit==1.0.1'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('csvkit==1.0.1', 'console_scripts', 'in2csv')()
+    )
