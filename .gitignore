@@ -26,3 +26,7 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.sublime-workspace
 *.sublime-project
 /tests/tests/
+
+/node_modules
+/vue-qusarapp/node_modules
+/vue-webpack/node_modules
